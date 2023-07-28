@@ -1,10 +1,6 @@
 # MySpace-Inspired RSS Feed Viewer
 
-<img src="https://www.rssboard.org/rss-validator/images/valid-rss-rogers.png" alt="Valid RSS" />  
-<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" />  
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI" />  
-<img src="https://img.shields.io/badge/SpaceHey-FF0000?style=for-the-badge&logo=spacehey&logoColor=white" alt="SpaceHey" />  
-<img src="http://www.notepad.org/notepad-logo3.gif" alt="Made with Notepad" />
+<img src="https://www.rssboard.org/rss-validator/images/valid-rss-rogers.png" alt="Valid RSS" />  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS" />  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI" />  <img src="https://img.shields.io/badge/SpaceHey-FF0000?style=for-the-badge&logo=spacehey&logoColor=white" alt="SpaceHey" />  <img src="http://www.notepad.org/notepad-logo3.gif" alt="Made with Notepad" />
 
 This is a RSS feed viewer built using ReactJS and Material-UI. It allows you to fetch an RSS feed and display blog posts in a stylish card-based layout.
 
