@@ -13,10 +13,9 @@ This is a RSS feed viewer built using ReactJS and Material-UI. It allows you to 
 
 ## Getting Started
 1. Clone the repository:
-
 ```bash
-git clone https://github.com/your-username/myspace-rss-feed-viewer.git
-cd myspace-rss-feed-viewer
+gh repo clone bhenrich/yuniis-blog
+cd yuniis-blog
 ```
 
 2. Install dependencies using yarn:
@@ -24,12 +23,19 @@ cd myspace-rss-feed-viewer
 yarn install
 ```
 
-Start the development server:
+3. Start the proxy server (src/proxy.js, required for CORS)
 ```bash
+cd src
+node proxy.js
+```
+
+4. Start the development server:
+```bash
+cd ..
 yarn start
 ```
 
-The app should now be running on http://localhost:3000.!
+The app should now be running on http://localhost:3000.
 
 ## Customize
 To fetch a different RSS feed, update the URL in src/RSSFeed.js inside the fetchRSSFeed function.
